@@ -1,4 +1,5 @@
 Automatizador de Cliques para League of Legends
+
 Este projeto é um automatizador de cliques desenvolvido para aceitar automaticamente as partidas do League of Legends (LOL). Ele localiza a imagem de confirmação de partida na tela e simula um clique quando a imagem é detectada, facilitando a aceitação das partidas de forma automática.
 
 Funcionalidades:
