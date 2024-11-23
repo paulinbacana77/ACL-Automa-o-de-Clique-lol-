@@ -16,7 +16,7 @@ Primeiro, baixe ou clone este repositório para sua máquina local. Se você usa
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/paulinbacana77/ACL-Automa-o-de-Clique-lol-.git
 2. Instale as dependências
 Dentro da pasta do repositório, crie um ambiente virtual (opcional, mas recomendado) e instale as dependências necessárias utilizando o pip.
 
