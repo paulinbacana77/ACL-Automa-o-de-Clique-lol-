@@ -30,9 +30,9 @@ Copiar código
 python -m venv venv
 
 # Ativar o ambiente virtual
-# No Windows:
+## No Windows:
 venv\Scripts\activate
-# No Linux/MacOS:
+## No Linux/MacOS:
 source venv/bin/activate
 
 # Instalar as dependências
